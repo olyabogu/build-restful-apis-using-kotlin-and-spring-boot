@@ -1,0 +1,6 @@
+[submodule "course-catalog-service"]
+	path = course-catalog-service
+	url = https://github.com/olyabogu/course-catalog-service.git
+[submodule "kotlin-test"]
+	path = kotlin-test
+	url = https://github.com/olyabogu/kotlin-test.git
